@@ -3,7 +3,7 @@
 **Tên nhóm:** AI Product Lab - Wolf
 
 **Thành viên:**
-1. [Họ và tên] - [MSSV]
+1. Trần Văn Huy - 2A202600712
 2. [Họ và tên] - [MSSV]
 3. [Họ và tên] - [MSSV]
 

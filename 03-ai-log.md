@@ -1,7 +1,7 @@
 # Lab 02 — AI Log & Reflection
 
-**Họ và tên:** [Họ và tên của bạn]
-**MSSV:** [MSSV của bạn]
+**Họ và tên:** Trần Văn Huy
+**MSSV:** 2A202600712
 
 ---
 
